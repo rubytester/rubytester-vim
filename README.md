@@ -20,6 +20,8 @@ ln -sf ~/git/rubytester-vim/.vimrc
 Based on pathogen
 
 ```
+mkdir .vim
+cd .vim
 mkdir autoload
 curl -Sso autoload/pathogen.vim https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
 mkdir bundle
