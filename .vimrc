@@ -3,6 +3,9 @@
   scriptencoding utf-8
   set t_Co=256 "set 256 color support
 
+" https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
+  execute pathogen#infect()
+  
 " Change <Leader>
   let mapleader = ","	
   
