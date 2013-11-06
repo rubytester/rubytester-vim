@@ -28,3 +28,11 @@ mkdir bundle
 cd bundle
 # now in bundle you can git clone any vim plugins and they will be loaded by pathogen. see vim-pathogen project
 ```
+
+## Alternatives
+
+- janus config disribution
+  https://github.com/carlhuda/janus
+
+- ls-pair vim config
+  https://github.com/livingsocial/ls-pair
